@@ -1,0 +1,11 @@
+\beamer@sectionintoc {1}{O que \IeC {\'e} F\IeC {\'\i }sica ?}{7}{0}{1}
+\beamer@sectionintoc {2}{Como a bicicleta se mant\IeC {\'e}m em p\IeC {\'e} ?}{10}{0}{2}
+\beamer@sectionintoc {3}{Trocando o pneu}{11}{0}{3}
+\beamer@sectionintoc {4}{Calibrando o pneu}{12}{0}{4}
+\beamer@sectionintoc {5}{Calibrando o pneu}{14}{0}{5}
+\beamer@sectionintoc {6}{Como a bicicleta faz curva ?}{15}{0}{6}
+\beamer@sectionintoc {7}{Colis\IeC {\~o}es com bicicletas}{16}{0}{7}
+\beamer@sectionintoc {8}{Como o freio freia ? ashashaha}{17}{0}{8}
+\beamer@sectionintoc {9}{Descendo uma ladeira (ou rampa)}{18}{0}{9}
+\beamer@sectionintoc {10}{Como funcionam as marchas da bicicleta}{19}{0}{10}
+\beamer@sectionintoc {11}{F\IeC {\'\i }sica das manobras}{20}{0}{11}
